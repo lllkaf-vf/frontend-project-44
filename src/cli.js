@@ -5,4 +5,4 @@ function askNameUser () {
    console.log(`Hello, ${name}!`);
 }
 
-export {askNameUser}
+export {askNameUser};
